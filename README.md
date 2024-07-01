@@ -7,3 +7,5 @@ This repository contains a comprehensive assignment from an Object-Oriented Prog
 2. Template Meta-Programming: The second part explores advanced C++ techniques with Template Meta-Programming, demonstrating powerful compile-time programming strategies.
 
 Assignment PDF is in Hebrew.
+
+![Meme](/meme.jpg)
